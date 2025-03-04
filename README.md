@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou Felipe Antoniati!
 
-<!--
-**antoniati/antoniati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou um **Desenvolvedor Front-end** apaixonado por desenvolver soluções web que combinam elegância e funcionalidade.
+Meu foco principal está em **JavaScript**, e tenho experiência sólida em **HTML**, **CSS**, **React.js** e **Next.js**.
 
-Here are some ideas to get you started:
+- 
+## 🚀 Por Que Escolher Trabalhar Comigo?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Expertise Técnica:** Profundo conhecimento em JavaScript (ES6+), React.js e Next.js, permitindo a construção de aplicações web eficientes e modernas.
+
+- **Design Responsivo:** Crio interfaces que se adaptam perfeitamente a qualquer dispositivo, garantindo uma experiência consistente para todos os usuários.
+
+- **Compromisso com a Qualidade:** A busca pela excelência é o meu mantra. Cada projeto é uma oportunidade de entregar resultados que superam as expectativas.
+
+- **Colaboração Efetiva:** Trabalho de forma colaborativa e transparente. A comunicação clara e a colaboração eficiente são fundamentais para o sucesso do projeto.
+
+- ...
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeantoniati&show_icons=true&count_private=true&hide=issues&theme=dark)
+
+## 🌐 Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/felipeantoniati/)
+- [Website/Blog](https://www.felipeantoniati.com.br)
+
+## 📬 Entre em Contato
+
+- Email: antoniati.felipe@gmail.com
+- Discord: felipeantoniati
+---
+
+**⭐️ Se gostar de algum projeto meu, ficaria feliz com uma ⭐️ no repositório!**
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeantoniati&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

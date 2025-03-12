@@ -1,20 +1,20 @@
 # 👋 Olá, eu sou Felipe Antoniati!
 
-Bem-vindo ao meu perfil! Sou um **Desenvolvedor Front-end** apaixonado por desenvolver soluções web que combinam elegância e funcionalidade.
-Meu foco principal está em **JavaScript**, e tenho experiência sólida em **HTML**, **CSS**, **React.js** e **Next.js**.
+Bem-vindo ao meu perfil! Sou um **Desenvolvedor FullStack** apaixonado por desenvolver soluções web que combinam elegância e funcionalidade.
+Meu foco principal está em **JavaScript**, e tenho experiência sólida em **Typescript**, **React.js**, **Node.js** e **Next.js**.
 
 - 
 ## 🚀 Por Que Escolher Trabalhar Comigo?
 
-- **Expertise Técnica:** Profundo conhecimento em JavaScript (ES6+), React.js e Next.js, permitindo a construção de aplicações web eficientes e modernas.
+- **Expertise Técnica:** Desenvolvimento de aplicações web escaláveis e modernas utilizando tecnologias de ponta como JavaScript, TypeScript, React.js, Node.js e Next.js.
 
-- **Design Responsivo:** Crio interfaces que se adaptam perfeitamente a qualquer dispositivo, garantindo uma experiência consistente para todos os usuários.
+- **Foco em Performance::**  Implementação de práticas avançadas para otimização de tempo de carregamento, SEO e experiência do usuário.
 
-- **Compromisso com a Qualidade:** A busca pela excelência é o meu mantra. Cada projeto é uma oportunidade de entregar resultados que superam as expectativas.
+- **Qualidade e Eficiência:** Código limpo, modular e bem documentado, garantindo alta manutenibilidade e escalabilidade.
 
-- **Colaboração Efetiva:** Trabalho de forma colaborativa e transparente. A comunicação clara e a colaboração eficiente são fundamentais para o sucesso do projeto.
+- **Visão Estratégica:** Experiência combinada em desenvolvimento web, e-commerce e marketing digital, proporcionando soluções integradas e orientadas para resultados.
 
-- ...
+- **Comunicação Clara e Transparente:** Priorizo uma colaboração eficiente e alinhamento contínuo com os objetivos do projeto.
 
 ## 📈 Estatísticas do GitHub
 

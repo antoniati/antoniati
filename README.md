@@ -16,10 +16,6 @@ Meu foco principal está em **JavaScript**, e tenho experiência sólida em **Ty
 
 - **Comunicação Clara e Transparente:** Priorizo uma colaboração eficiente e alinhamento contínuo com os objetivos do projeto.
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeantoniati&show_icons=true&count_private=true&hide=issues&theme=dark)
-
 ## 🌐 Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/felipeantoniati/)
